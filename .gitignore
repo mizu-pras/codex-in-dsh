@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# local backups and scratch files
+*.bak
+*.bak.*
+*.tmp
+.credentials.yaml
+.credentials.yaml.*
+
+# dependencies / env
+node_modules/
+.env
+.env.*
